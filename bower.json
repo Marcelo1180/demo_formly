@@ -1,7 +1,7 @@
 {
   "name": "test",
   "description": "testing our component",
-  "main": "gulpfile.js",
+  "main": "index.html",
   "private": true,
   "dependencies": {
     "angular": "~1.4.7",
@@ -10,4 +10,3 @@
     "angular-formly-templates-bootstrap": "~4.4.0"
   }
 }
-
